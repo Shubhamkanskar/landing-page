@@ -30,6 +30,8 @@ A stunning, modern landing page built with Next.js, Tailwind CSS, and Framer Mot
 - Framer Motion
 - Lucide Icons
 - Embla Carousel
+- ![landing saas](https://github.com/user-attachments/assets/3583e655-36cb-4aaf-8c00-cd1131703145)
+
 
 ## 🏃‍♂️ Getting Started
 
